@@ -10,6 +10,7 @@ This repo is for a hands-on lab that walks through how to use the Verification S
 Install dependencies for the hol-mdl project you just cloned with npm.
 ```
 npm i
+
 ```
 
 ## Auth0 Environment Setup
@@ -262,3 +263,5 @@ That is all that is needed to implement verification through Auth0. To test the 
 > [!NOTE]
 >The full completed code for this lab is available on the endstate branch of the repo:
 >https://github.com/Auth0/hol-mdl/tree/endstate
+
+test1
